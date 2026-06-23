@@ -27,12 +27,10 @@ img {
 
 /* SOLUTION */
 
-body {
-  text-align: center;
-}
 
 .title {
   margin-bottom: 32px;
+  text-align: center;
 }
 
 .container {
@@ -43,4 +41,5 @@ body {
 
 .info {
   max-width: 200px;
+  text-align: center;
 }
